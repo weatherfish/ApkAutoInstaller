@@ -23,9 +23,8 @@ AutoInstallerContext.initApplication(this,
 ````
 
 ##Sample & Art
-<a href="https://github.com/bunnyblue/ApkAutoInstaller/blob/master/art/ApkAutoInstaller.apk.apk">
-  Sample Apk,you can download from here
-</a>
+
+[Sample Apk, You can download from here](https://github.com/bunnybluy/ApkAutoInstaller/raw/master/art/ApkAutoInstaller.apk)
 
 ![Open Permission](https://github.com/bunnyblue/ApkAutoInstaller/raw/master/art/setting.png)
 ![Select Apk](https://github.com/bunnyblue/ApkAutoInstaller/raw/master/art/step1.png)
