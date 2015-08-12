@@ -3,7 +3,7 @@
 
   <br>Android apk自动安装sdk 基于AccessibilityService。</br>
 
-
+###  support Android 4.1+
 
 
 ### Contributors
